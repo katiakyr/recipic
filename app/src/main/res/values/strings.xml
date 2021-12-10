@@ -4,4 +4,17 @@
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="title_activity_photo">photo</string>
+    <string name="recipic">AdvancedHttpURLConnection</string>
+    <string name="data">Result Text</string>
+    <string name="fetch_data">Fetch Data</string>
+    <string name="put_data">Put Data</string>
+    <string name="github_vishnusivadasvs">GitHub.com/VishnuSivadasVS</string>
+    <string name="fullname">Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signup">New here? <u>Sign Up</u></string>
+    <string name="login">Login</string>
+    <string name="loginhere">Already have an account?<u>Login</u></string>
+    <string name="forgotpassword"><u>Forgot Password?</u></string>
 </resources>

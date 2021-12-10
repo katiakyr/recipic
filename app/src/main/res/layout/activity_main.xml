@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/recipic"
+    android:background="@drawable/background1"
     tools:context=".MainActivity">
+
 
     <TextView
         android:id="@+id/signin"
@@ -15,7 +16,7 @@
         android:layout_marginTop="50dp"
         android:layout_marginEnd="50dp"
         android:layout_marginBottom="50dp"
-        android:background="#97A82F26"
+        android:background="#97DD9791"
 
         android:backgroundTint="#20FFEB3B"
         android:backgroundTintMode="add"
@@ -35,7 +36,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
-        android:background="#86A82F26"
+        android:background="#97DD9791"
         android:drawableLeft="@drawable/ic_baseline_person_outline_24"
         android:drawablePadding="20dp"
         android:hint="Username"
@@ -52,7 +53,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
-        android:background="#86A82F26"
+        android:background="#97DD9791"
         android:drawableLeft="@drawable/ic_baseline_lock_open_24"
         android:drawablePadding="20dp"
         android:hint="Password"
@@ -70,22 +71,22 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="#97DD9791"
         android:fontFamily="@font/bangers"
         android:text="LOGIN" />
 
-    <TextView
-        android:id="@+id/forgotpass"
+
+    <ImageView
+        android:id="@+id/imageView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/loginbtn"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="10dp"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="70dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
-        android:text="Forgot Password?"
-        android:textColor="@color/white" />
+        app:srcCompat="@drawable/_0529d28dfef47109e05ee7c43bb35d3" />
 
 
 </RelativeLayout>

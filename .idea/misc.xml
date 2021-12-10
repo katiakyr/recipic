@@ -6,11 +6,23 @@
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/drawable/background_1.xml" value="0.3328125" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/drawable/background_2.xml" value="0.3328125" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/drawable/background_3.xml" value="0.3328125" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/drawable/ic_profile.xml" value="0.33697916666666666" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_breakfast.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_categories.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_category.xml" value="0.25" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_dessert.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_lunch.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_main2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_navigationbar.xml" value="0.3067708333333333" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_object_processor.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_objectprocessor.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_recommendations.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/activity_sign_up.xml" value="0.26905829596412556" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/fragment_dashboard.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/KinxGamer/AndroidStudioProjects/recipic/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
       </map>
     </option>
   </component>
